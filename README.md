@@ -3,8 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 **Note: Before running the files, you must consider the following:**
-- For the backend, install the dependencies by running 'npm install' in the root directory (where package.json is).
-- For the frontend(newshub), navigate to the client directory and run 'npm install' to install React and other required dependencies (react, react-router-dom, axios).
+- For the backend, install the dependencies by running `npm install` in the root directory (where package.json is).
+- For the frontend(newshub), navigate to the client directory and run `npm install` to install React and other required dependencies (react, react-router-dom, axios).
 
 ## After the Installation of the Dependencies
 You need to open 2 terminals: 
