@@ -7,8 +7,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - For the frontend(newshub), navigate to the client directory and run 'npm install' to install React and other required dependencies (react, react-router-dom, axios).
 
 ## After the Installation of the Dependencies
+You need to open 2 terminals: 
+Terminal 1: In the first terminal, navigate to the backend folder and run 'npm start' (or npm run dev for development) to start the Express server on port 5000.
+Terminal 2: In the second terminal, navigate to the frontend folder (likely named "newshub") and run ### `npm start` to launch the React development server on port 3000—then open your browser to http://localhost:3000 to access NewsHub.
 
-In the project directory, you can run:
+
 
 ### `npm start`
 
